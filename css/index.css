@@ -1,0 +1,28 @@
+body {
+    background-color: aqua;
+}
+
+h1 {
+    background-color: orange;
+}
+
+p {
+    background-color: azure !important;
+    color: green;
+}
+
+strong {
+    color: red;
+    background-color: yellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+}
+
+span {
+    color: blue;
+}
+
+p {
+    background-color: rgb(167, 239, 23);
+    color: rgb(128, 0, 77);
+}
